@@ -8,5 +8,5 @@
 ### South America
 | Country | Level 1 | Level 2 | Dataset | HDX Resource |
 | :---         |     :---:      |          ---: |  ---: |  ---: |
-| Uruguay   | Department     | Municipality    | [Uruguay](https://data.humdata.org/dataset/cod-ab-ury) | [Resource](https://data.humdata.org/dataset/cod-ab-ury)
+| Uruguay   | Department     | Municipality    | [Uruguay](https://github.com/nathanbaleeta/gis-subnational-admin-boundaries/tree/main/countries/uruguay) | [Resource](https://data.humdata.org/dataset/cod-ab-ury)
 
